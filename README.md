@@ -1,4 +1,4 @@
-# Cuidando-do-seu-dinheiro-Gest-o-de-Finan-as-Pessoais
+# Cuidando-do-seu-dinheiro
 NotebookLM/ Finanças;
 Link do NotebookLM https://notebooklm.google.com/notebook/05122894-a668-4745-a9b9-dac01839e69e
 
