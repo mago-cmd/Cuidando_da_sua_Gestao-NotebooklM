@@ -1,4 +1,7 @@
+## Projeto do Bootcamp da DIO Bradesco - GenAI & Dados ##
 # Cuidando-do-seu-dinheiro
+
+NotebookLM
 NotebookLM/ Finanças;
 Link do NotebookLM https://notebooklm.google.com/notebook/05122894-a668-4745-a9b9-dac01839e69e
 
